@@ -5,3 +5,4 @@ numpy==1.22.4
 pandas==1.4.3
 pymongo==4.2.0
 python_bcrypt==0.3.2
+gunicorn==19.0.0
